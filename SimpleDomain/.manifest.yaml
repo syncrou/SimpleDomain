@@ -2,6 +2,8 @@
 __domain__.yaml:
   classes: 1
   instances: 5
+  method_files: 11
+  method_instances: 11
   created_on: !ruby/object:ActiveSupport::TimeWithZone
     utc: &1 2016-03-11 20:27:48.288740000 Z
     zone: &2 !ruby/object:ActiveSupport::TimeZone
@@ -123,3 +125,179 @@ SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/Provision.yaml:
     time: *23
   size: 179
   sha1: puSOafLtkJOkP2Wt5wM9gO5OH28=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/amazon_CustomizeRequest.rb:
+  created_on: &26 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &24 2016-03-11 20:55:36.970578000 Z
+    zone: *2
+    time: *24
+  updated_on: &27 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &25 2016-03-11 20:55:36.970578000 Z
+    zone: *2
+    time: *25
+  size: 282
+  sha1: t5H6eB2Zu1V/kGF9IAY9fYRmKbY=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/amazon_CustomizeRequest.yaml:
+  created_on: *26
+  updated_on: *27
+  size: 203
+  sha1: 2rF/pL9p1UmzvqpLrVGrLu5cOck=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/amazon_PostProvision.rb:
+  created_on: &30 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &28 2016-03-11 20:55:36.795068000 Z
+    zone: *2
+    time: *28
+  updated_on: &31 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &29 2016-03-11 20:55:36.795068000 Z
+    zone: *2
+    time: *29
+  size: 310
+  sha1: bnRRE9m3DnKRNrEV3RRoO/GrCvw=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/amazon_PostProvision.yaml:
+  created_on: *30
+  updated_on: *31
+  size: 200
+  sha1: 9y28hKETSWeidW4lM3rOWp2I9Rk=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/amazon_PreProvision.rb:
+  created_on: &34 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &32 2016-03-11 20:55:36.586762000 Z
+    zone: *2
+    time: *32
+  updated_on: &35 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &33 2016-03-11 20:55:36.586762000 Z
+    zone: *2
+    time: *33
+  size: 308
+  sha1: 2nZgraT/z3xywBQQJBCyxFahTzc=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/amazon_PreProvision.yaml:
+  created_on: *34
+  updated_on: *35
+  size: 199
+  sha1: miAzwkxUjl39qDmp4I7kXbHNCWk=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/amazon_PreProvision_Clone_to_VM.rb:
+  created_on: &38 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &36 2016-03-11 20:55:36.424146000 Z
+    zone: *2
+    time: *36
+  updated_on: &39 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &37 2016-03-11 20:55:36.424146000 Z
+    zone: *2
+    time: *37
+  size: 312
+  sha1: DXUxs4XSeolpvFHTuxbkmYD9wyo=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/amazon_PreProvision_Clone_to_VM.yaml:
+  created_on: *38
+  updated_on: *39
+  size: 211
+  sha1: ivOz0Df1ULTmcK9ZGaJ/wrSryWQ=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/check_provisioned.rb:
+  created_on: &42 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &40 2016-03-11 20:55:36.281242000 Z
+    zone: *2
+    time: *40
+  updated_on: &43 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &41 2016-03-11 20:55:36.281242000 Z
+    zone: *2
+    time: *41
+  size: 681
+  sha1: 5BloOTGfI3+FIihMB22yf2HglK4=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/check_provisioned.yaml:
+  created_on: *42
+  updated_on: *43
+  size: 197
+  sha1: 6CW4pgrSrTN171vnfB6mMw67HHo=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/openstack_CustomizeRequest.rb:
+  created_on: &46 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &44 2016-03-11 20:55:36.143027000 Z
+    zone: *2
+    time: *44
+  updated_on: &47 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &45 2016-03-11 20:55:36.143027000 Z
+    zone: *2
+    time: *45
+  size: 295
+  sha1: qiJXqU9r8i1D20pK9Y9QfaUWcD0=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/openstack_CustomizeRequest.yaml:
+  created_on: *46
+  updated_on: *47
+  size: 206
+  sha1: 5om/OB60Tw/MT1voAzoK/wkF9D8=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/openstack_PostProvision.rb:
+  created_on: &50 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &48 2016-03-11 20:55:36.000875000 Z
+    zone: *2
+    time: *48
+  updated_on: &51 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &49 2016-03-11 20:55:36.000875000 Z
+    zone: *2
+    time: *49
+  size: 310
+  sha1: bnRRE9m3DnKRNrEV3RRoO/GrCvw=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/openstack_PostProvision.yaml:
+  created_on: *50
+  updated_on: *51
+  size: 203
+  sha1: GfYDbehRKTfTzt9nmwnpVBmQ8Sk=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/openstack_PreProvision.rb:
+  created_on: &54 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &52 2016-03-11 20:55:35.864627000 Z
+    zone: *2
+    time: *52
+  updated_on: &55 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &53 2016-03-11 20:55:35.864627000 Z
+    zone: *2
+    time: *53
+  size: 311
+  sha1: eIRxktSJWhz7A+Th/GxKdYLQgfw=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/openstack_PreProvision.yaml:
+  created_on: *54
+  updated_on: *55
+  size: 202
+  sha1: kEFC2SWKUM9tHRvNV3JHU29NHJU=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/openstack_PreProvision_Clone_to_VM.rb:
+  created_on: &58 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &56 2016-03-11 20:55:35.718144000 Z
+    zone: *2
+    time: *56
+  updated_on: &59 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &57 2016-03-11 20:55:35.718144000 Z
+    zone: *2
+    time: *57
+  size: 312
+  sha1: DXUxs4XSeolpvFHTuxbkmYD9wyo=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/openstack_PreProvision_Clone_to_VM.yaml:
+  created_on: *58
+  updated_on: *59
+  size: 214
+  sha1: DiJDecR32etGdwk+u1VWwnEX/O0=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/provision.rb:
+  created_on: &62 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &60 2016-03-11 20:55:35.563731000 Z
+    zone: *2
+    time: *60
+  updated_on: &63 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &61 2016-03-11 20:55:35.563731000 Z
+    zone: *2
+    time: *61
+  size: 97
+  sha1: STJJVJHS2mxRB8mm56MBg+x/sN4=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/provision.yaml:
+  created_on: *62
+  updated_on: *63
+  size: 189
+  sha1: WVU9/VTJ9Bfq6yccG/MVI1+Ldmw=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/scan.rb:
+  created_on: &66 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &64 2016-03-11 20:55:35.395046000 Z
+    zone: *2
+    time: *64
+  updated_on: &67 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &65 2016-03-11 20:55:35.395046000 Z
+    zone: *2
+    time: *65
+  size: 238
+  sha1: KeJ3RQZaslWby+RpfNaCDTyDtLw=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__methods__/scan.yaml:
+  created_on: *66
+  updated_on: *67
+  size: 184
+  sha1: GrEDN97J92TPjNTnFw8KZuG4eEQ=
