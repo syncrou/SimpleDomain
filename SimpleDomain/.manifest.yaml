@@ -1,0 +1,125 @@
+---
+__domain__.yaml:
+  classes: 1
+  instances: 5
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &1 2016-03-11 20:27:48.288740000 Z
+    zone: &2 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: *1
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &3 2016-03-11 20:27:48.288740000 Z
+    zone: *2
+    time: *3
+  size: 200
+  sha1: 5t+RqOwXC1oPPKZa/srsglVMFu4=
+SimpleDomain/Cloud/__namespace__.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &4 2016-03-11 20:28:36.748584000 Z
+    zone: *2
+    time: *4
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &5 2016-03-11 20:28:36.748584000 Z
+    zone: *2
+    time: *5
+  size: 157
+  sha1: hZQZvoWrRtQtFnubfENz7a3+Hf8=
+SimpleDomain/Cloud/VM/__namespace__.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &6 2016-03-11 20:28:36.751123000 Z
+    zone: *2
+    time: *6
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &7 2016-03-11 20:28:36.751123000 Z
+    zone: *2
+    time: *7
+  size: 154
+  sha1: 3RSCLo/Rm2MTjJcHQBgzB0pxtqg=
+SimpleDomain/Cloud/VM/Provisioning/__namespace__.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &8 2016-03-11 20:28:36.752942000 Z
+    zone: *2
+    time: *8
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &9 2016-03-11 20:28:36.752942000 Z
+    zone: *2
+    time: *9
+  size: 164
+  sha1: IfcxDJ844lczST9d/ej9/JN76u4=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/__namespace__.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &10 2016-03-11 20:28:36.754994000 Z
+    zone: *2
+    time: *10
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &11 2016-03-11 20:28:36.754994000 Z
+    zone: *2
+    time: *11
+  size: 165
+  sha1: 22eiz/w4svqadOuX6ijZPmzbScQ=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/__class__.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &12 2016-03-11 20:28:36.764877000 Z
+    zone: *2
+    time: *12
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &13 2016-03-11 20:28:36.764877000 Z
+    zone: *2
+    time: *13
+  size: 3160
+  sha1: 4FjPv/aYQbWb7cKs/3AJot27aUI=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/CheckProvisioned.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &14 2016-03-11 20:28:37.441579000 Z
+    zone: *2
+    time: *14
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &15 2016-03-11 20:28:37.441579000 Z
+    zone: *2
+    time: *15
+  size: 194
+  sha1: qbc0v3Fz/jOaGTtpB3yx+aX5rwg=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/CustomizeRequest.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &16 2016-03-11 20:28:37.290531000 Z
+    zone: *2
+    time: *16
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &17 2016-03-11 20:28:37.290531000 Z
+    zone: *2
+    time: *17
+  size: 266
+  sha1: iHPTHPY6qPBdtyge4EdR2oAwNn0=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/PostProvision.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &18 2016-03-11 20:28:37.138535000 Z
+    zone: *2
+    time: *18
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &19 2016-03-11 20:28:37.138535000 Z
+    zone: *2
+    time: *19
+  size: 257
+  sha1: WXEfeK7sHVk7Pgvqv5e6/RuxgX4=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/PreProvision.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &20 2016-03-11 20:28:36.973848000 Z
+    zone: *2
+    time: *20
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &21 2016-03-11 20:28:36.973848000 Z
+    zone: *2
+    time: *21
+  size: 254
+  sha1: 47Svz4H+E0hC2UJbznFrdb/17Tc=
+SimpleDomain/Cloud/VM/Provisioning/StateMachines/Methods.class/Provision.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &22 2016-03-11 20:28:36.808277000 Z
+    zone: *2
+    time: *22
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &23 2016-03-11 20:28:36.808277000 Z
+    zone: *2
+    time: *23
+  size: 179
+  sha1: puSOafLtkJOkP2Wt5wM9gO5OH28=
