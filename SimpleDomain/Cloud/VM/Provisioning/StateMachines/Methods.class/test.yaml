@@ -4,9 +4,9 @@ version: 1.0
 object:
   attributes:
     display_name: 
-    name: Provision
+    name: Test
     inherits: 
     description: 
   fields:
   - execute:
-      value: provision
+      value: Test
