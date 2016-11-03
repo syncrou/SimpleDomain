@@ -4,9 +4,9 @@ version: 1.0
 object:
   attributes:
     display_name: 
-    name: Testing
+    name: TestAgain
     inherits: 
     description: 
   fields:
   - execute:
-      value: Testing
+      value: TestAgain
