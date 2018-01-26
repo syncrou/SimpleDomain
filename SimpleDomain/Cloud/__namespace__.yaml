@@ -4,8 +4,8 @@ version: 1.0
 object:
   attributes:
     name: Cloud
-    description: 
-    display_name: 
+    description: Cloud Namespace by Drew
+    display_name: Drews Cloud Namespace
     system: 
     priority: 
     enabled: 
