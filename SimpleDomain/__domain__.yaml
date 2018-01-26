@@ -3,9 +3,9 @@ object_type: domain
 version: 1.0
 object:
   attributes:
-    name: SimpleDomain
-    description: SimpleDomain
-    display_name: 
+    name: DrewSimpleDomain
+    description: DrewSimpleDomain
+    display_name: DrewSimpleDomain
     system: false
     priority: 5
     enabled: true
