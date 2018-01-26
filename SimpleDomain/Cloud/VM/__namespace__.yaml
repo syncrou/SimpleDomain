@@ -5,7 +5,7 @@ object:
   attributes:
     name: VM
     description:  Drews VM Description
-    display_name: 
+    display_name: Drews VM Display Name
     system: 
     priority: 
     enabled: 
